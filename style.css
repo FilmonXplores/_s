@@ -968,5 +968,14 @@ textarea {
 	margin-bottom: 1.5em;
 }
 body {
-  background-color: yellow;
+    background-color: red !important;
+}
+
+.site {
+    background-color: yellow !important;
+}
+
+h1 {
+    color: blue !important;
+    font-size: 50px !important;
 }
