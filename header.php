@@ -1,3 +1,4 @@
+<h1>TEST opensource group project</h1>
 <?php
 /**
  * The header for our theme
@@ -57,3 +58,4 @@
 			?>
 		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->
+

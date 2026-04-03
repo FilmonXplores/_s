@@ -29,6 +29,7 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
+<p>© MU-MIT Open Source Project</p>
 
 </body>
 </html>
